@@ -22,6 +22,7 @@ def run_game():
     bullets = Group()
     aliens = Group()
 
+
     stats = GameStats(ai_settings)
 
     # 创建外星人s
